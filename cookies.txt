@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.se-renewables.top	TRUE	/	FALSE	1999999999	PHPSESSID	6un1gfjnol0lpgergq9ku3lc41
-www.se-renewables.top	TRUE	/	FALSE	1999999999	think_var	en-us
-
